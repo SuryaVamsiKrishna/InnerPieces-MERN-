@@ -4,11 +4,15 @@
 Web Application Project on Mental Health Using Django and Django Rest Framework.
 
 ## TEAM MEMBERS
-P. Surya Vamsi Krishna-  S20180010124
-K. Mithra Sai Teja- S20180010074
-K. Jerry Rajesh - S20180010070
-M. Uday Bhaskar- S20180010099
-Thummala Midhun Naga Babu- S20180010177
+P. Surya Vamsi Krishna-  S20180010124,
+
+K. Mithra Sai Teja- S20180010074,
+
+K. Jerry Rajesh - S20180010070,
+
+M. Uday Bhaskar- S20180010099,
+
+Thummala Midhun Naga Babu- S20180010177,
 
 
 ## OBJECTIVE:
