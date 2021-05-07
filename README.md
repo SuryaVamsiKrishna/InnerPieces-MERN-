@@ -1,5 +1,15 @@
+# Group-16
+
 # Inner-Pieces
 Web Application Project on Mental Health Using Django and Django Rest Framework.
+
+## TEAM MEMBERS
+P. Surya Vamsi Krishna-  S20180010124
+K. Mithra Sai Teja- S20180010074
+K. Jerry Rajesh - S20180010070
+M. Uday Bhaskar- S20180010099
+Thummala Midhun Naga Babu- S20180010177
+
 
 ## OBJECTIVE:
 Surveys have show that many individuals in our world are very stressed and are not being able to find happiness and mental peace. This is eventually leading the to depression and taking extreme steps like committing suicide.
